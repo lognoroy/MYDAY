@@ -6,6 +6,6 @@ April 2022
 
 • After completing the task, user has the option to delete it too!
 
-Live: https://lognoroy.github.io/TODO-WebApp/
+Live: https://lognoroy.github.io/MYDAY/
 
 Demo: https://drive.google.com/file/d/1gWmJ8QrZP-K6buN2pswdgLxOttzXP3VR/view
