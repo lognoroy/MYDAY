@@ -8,4 +8,4 @@ April 2022
 
 Live: https://lognoroy.github.io/MYDAY/
 
-Demo: https://drive.google.com/file/d/1gWmJ8QrZP-K6buN2pswdgLxOttzXP3VR/view
+Demo: https://drive.google.com/file/d/1lhKnb9Ny5O4RTHVjvdv8iBr5ZGzfW3Po/view?usp=sharing
